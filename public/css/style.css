@@ -1,0 +1,51 @@
+.background-image {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    /* background-position-y: 35%; */
+    height: 300px;
+    position: relative;
+    font-family: "Special Elite", cursive;
+}
+
+.navbar-brand, a, a:hover {
+    color: #f67f72;
+    text-decoration: none;
+}
+.header-title {
+    color: white;
+    text-decoration: none;  
+}
+
+.nav-item .nav-link {
+    color: slategray;
+}
+
+.nav-item.active .nav-link {
+    color: black;
+}
+
+.header-title {
+    position: absolute;
+    top: 40%;
+    right: 20%;
+    font-size: 90px;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+.card {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.loader {
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
