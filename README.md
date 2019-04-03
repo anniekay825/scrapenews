@@ -1,7 +1,7 @@
 # Scraping the News
 ### brought to you by [Bored Panda](https://www.boredpanda.com/)
 
-This app is designed to scrape the news from the website, and allow for users to save articles and add notes.  You'll note the picture below does not show the notes portion, as that is still a work-in-progress (had issues with some code).  That said, I do love the formatting, so at least enjoy that!  And, the great article of course.
+:newspaper: This app is designed to scrape the news from the website, and allow for users to save articles and add notes.  You'll note the picture below does not show the notes portion, as that is still a work-in-progress (had issues with some code).  That said, I do love the formatting, so at least enjoy that!  And, the great article of course.
 
 ![](/public/images/site1.PNG)
 
